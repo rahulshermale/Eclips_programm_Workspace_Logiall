@@ -1,0 +1,27 @@
+package Inner_pack_02;
+class Test implements Cloneable {
+    int j = 10;
+    int i = 20;
+
+    // Override the clone method with public access
+    @Override
+    public Object clone() throws CloneNotSupportedException {
+        return super.clone();
+    }
+}
+
+public class InnnerClass {
+    public static void main(String[] args) {
+        try {
+            Test t1 = new Test();
+            Test t2 = (Test) t1.clone();
+            t2.i = 888;
+            t2.j = 999;
+
+            System.out.println(t1.i + " ------------- " + t1.j);
+            System.out.println(t2.i + " ------------- " + t2.j);
+        } catch (CloneNotSupportedException e) {
+            e.printStackTrace();
+        }
+    }
+}

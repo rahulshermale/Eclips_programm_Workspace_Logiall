@@ -1,0 +1,9 @@
+package Inner_pack_02;
+
+public class WrapperClasses {
+	public static void main(String[] args) {
+
+	int num=Integer.valueOf("10");
+	System.out.println(num);
+	}
+}

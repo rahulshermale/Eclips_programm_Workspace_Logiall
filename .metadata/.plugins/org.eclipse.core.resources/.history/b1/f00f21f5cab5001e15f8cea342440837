@@ -1,0 +1,11 @@
+package pack_01;
+
+public class LocalFun {
+
+	public static void main(String[] args) {
+		int x=130;
+		byte b=(byte)x;
+		System.out.println(x);
+	}
+
+}

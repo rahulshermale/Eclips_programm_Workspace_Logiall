@@ -1,0 +1,11 @@
+package pack_01;
+
+import static java.lang.Math.*;
+
+public class LocalFun {
+	static {
+		System.out.println("hello i can print");
+		System.exit(0);
+	}
+
+}

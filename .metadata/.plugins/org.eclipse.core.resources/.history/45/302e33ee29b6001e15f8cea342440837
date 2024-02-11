@@ -1,0 +1,7 @@
+package pack_01;
+public class LocalFun {
+    static {
+        System.out.println("hello i can print");
+        System.exit(0);
+    }
+}

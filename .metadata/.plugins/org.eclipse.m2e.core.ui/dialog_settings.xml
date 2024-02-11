@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="MavenProjectWizardLocationPage">
+		<list key="location">
+			<item value="C:\Users\91897\eclipse-workspace\hibernet_0123\pom.xml"/>
+			<item value="C:\Users\91897\eclipse-workspace\Main-Spring\src\mypack\Main.java"/>
+			<item value="C:\Users\91897\eclipse-workspace\jsp_Servlet\src\main\webapp\index.jsp"/>
+			<item value="C:\Users\91897\eclipse-workspace\demo1"/>
+			<item value="C:\Users\91897\OneDrive\Desktop"/>
+			<item value="C:\Users\91897\eclipse-workspace\Abcd"/>
+			<item value="C:\Users\91897\eclipse-workspace\demo1\src\demo1\jdb1.java"/>
+			<item value="C:\Users\91897\eclipse-workspace"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArchetypePage">
+		<item key="catalog" value="internal"/>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="Maven2ProjectWizardArchifactPage">
+		<list key="package">
+			<item value="com.tut.project_with"/>
+			<item value="com.tut.Core"/>
+			<item value="com.tut"/>
+		</list>
+		<list key="groupId">
+			<item value="com.tut"/>
+		</list>
+		<list key="artifactId">
+			<item value="project_with"/>
+			<item value="Core_Spring_Youtube"/>
+			<item value="__Maven_Project"/>
+			<item value="FirstProjectWithMaven"/>
+			<item value="FirstMavenProject"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArtifactPage">
+		<list key="groupId">
+		</list>
+		<list key="name">
+		</list>
+		<list key="artifactId">
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="wizardPage">
+		<list key="groupId">
+			<item value="00_Web_Proje"/>
+			<item value="00_Web_Project"/>
+			<item value="Web_Project_Third"/>
+			<item value="Web_Project_First"/>
+			<item value="Main-Spring"/>
+			<item value="hibernet_0123"/>
+			<item value="core_901"/>
+			<item value="AOPAno"/>
+			<item value="AOP"/>
+			<item value="Project_Java"/>
+			<item value="Day_11"/>
+			<item value="IOC"/>
+			<item value="Day_09_03_cache"/>
+			<item value="Day_09_03Cache"/>
+			<item value="Day_09_02"/>
+		</list>
+		<list key="name">
+		</list>
+		<list key="artifactId">
+			<item value="00_Web_Proje"/>
+			<item value="00_Web_Project"/>
+			<item value="Web_Project_Third"/>
+			<item value="Web_Project_First"/>
+			<item value="Main-Spring"/>
+			<item value="hibernet_0123"/>
+			<item value="core_901"/>
+			<item value="AOPAno"/>
+			<item value="AOP"/>
+			<item value="Project_Java"/>
+			<item value="Day_11"/>
+			<item value="IOC"/>
+			<item value="Day_09_03_cache"/>
+			<item value="Day_09_03Cache"/>
+			<item value="Day_09_02"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.overview">
+	</section>
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+	<section name="org.eclipse.m2e.core.ui.internal.wizards.CustomArchetypeDialog">
+	</section>
+	<section name="org.eclipse.m2e.core.ui.internal.dialogs.MavenRepositorySearchDialog">
+		<item key="width" value="480"/>
+		<item key="height" value="667"/>
+		<item key="x" value="255"/>
+		<item key="y" value="72"/>
+	</section>
+</section>

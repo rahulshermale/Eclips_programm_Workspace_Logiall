@@ -1,0 +1,8 @@
+package mypack;
+
+public class Snippet {
+	public static void main(String[] args) {
+		master.com.vita1;
+	}
+}
+

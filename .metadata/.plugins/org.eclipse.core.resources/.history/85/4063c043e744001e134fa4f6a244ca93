@@ -1,0 +1,31 @@
+class A {
+	int x=10;
+	void disp() {
+		System.out.println("abc");
+	}
+	
+}
+
+abstract class C extends A {
+	
+	
+	void disp() {
+
+	
+	}
+}
+ class D extends C {
+	
+	
+	protected void disp() {
+		System.out.println("abc");
+	
+	}
+}
+
+public class Test {
+	public static void main(String[] args) {
+
+	
+	}
+}

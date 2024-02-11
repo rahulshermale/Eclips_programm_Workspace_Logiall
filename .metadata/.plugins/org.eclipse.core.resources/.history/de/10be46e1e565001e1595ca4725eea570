@@ -1,0 +1,14 @@
+package Demo;
+
+public class Finally_Block {
+public static void main(String[] args) {
+	
+	try {
+		String s1=null;
+		s1.length();
+	} catch (ArrayIndexOutOfBoundsException e) {
+		System.out.println(e);
+	}
+	
+}
+}

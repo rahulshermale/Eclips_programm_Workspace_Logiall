@@ -1,0 +1,13 @@
+package Inner_pack_02;
+  class Test implements Cloneable{
+	  int j=10;
+	  int i=20;
+  }
+public class InnnerClass {
+
+	public static void main(String[] args) {
+
+	Test t=new Test();
+	System.out.println(t.j+"\t"+t.i);
+	}
+}

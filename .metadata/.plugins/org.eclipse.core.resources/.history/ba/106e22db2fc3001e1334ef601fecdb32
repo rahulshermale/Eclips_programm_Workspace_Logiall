@@ -1,0 +1,30 @@
+package FileIo;
+
+class Sample{
+	
+	static
+	{
+		System.out.println("This is a static block");
+	}
+	{
+		System.out.println("This is a NoN Static Block");
+	}
+	void disp() {
+		System.out.println("Disp Method ");
+	}
+}
+
+
+
+public class first {
+public static void main(String[] args) throws ClassNotFoundException, InstantiationException, IllegalAccessException  
+{
+	
+	Class c=Class.forName("FileIo.Sample");//newInstance();
+	
+	Sample s1=(Sample) c.newInstance();
+	
+	
+	
+}
+}

@@ -1,0 +1,27 @@
+package FileIo;
+
+class Sample{
+	
+	static
+	{
+		System.out.println("This is a static block");
+	}
+	{
+		System.out.println("This is a NoN Static Block");
+	}
+}
+
+
+
+public class first {
+public static void main(String[] args) //throws ClassNotFoundException  
+{
+	
+	try {
+		Class.forName("Sample");
+	} catch (ClassNotFoundException e) {
+		// TODO Auto-generated catch block
+		e.printStackTrace();
+	}
+}
+}

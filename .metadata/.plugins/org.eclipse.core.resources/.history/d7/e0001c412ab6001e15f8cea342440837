@@ -1,0 +1,14 @@
+package pack_01;
+public class LocalFun {
+	static {
+        System.out.println("This is printed without a main method");
+    }
+
+    // You can also have static variable initialization
+    private static String message = initMessage();
+
+    private static String initMessage() {
+        System.out.println("Initializing message");
+        return "Hello, World!";
+    }
+}

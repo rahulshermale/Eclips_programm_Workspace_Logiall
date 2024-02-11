@@ -1,0 +1,18 @@
+class num{
+	
+	public void myMethod() {
+		int i;
+		i=1;
+		System.out.println(i);	
+	}
+}
+public class strgs {
+
+
+	
+public static void main(String args[]) {
+
+num ob=new num();
+ob.myMethod();
+}
+}

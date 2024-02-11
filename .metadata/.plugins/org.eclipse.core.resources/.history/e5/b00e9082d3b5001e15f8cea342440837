@@ -1,0 +1,22 @@
+package pack_01;
+
+import static java.lang.Math.*;
+
+class Demo{
+	int num;
+	
+	Demo(){
+		System.out.println(num=20);
+	}
+		
+	
+	
+}
+
+public class LocalFun {
+
+	public static void main(String[] args) {
+Demo d=new Demo();
+	}
+
+}

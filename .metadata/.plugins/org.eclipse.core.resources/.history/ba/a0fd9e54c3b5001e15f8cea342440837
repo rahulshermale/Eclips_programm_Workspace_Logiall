@@ -1,0 +1,11 @@
+package pack_01;
+
+public class LocalFun {
+
+	
+	public static void main(int[] args)
+	{
+	System.out.println("int[] array main method");
+	}
+
+}

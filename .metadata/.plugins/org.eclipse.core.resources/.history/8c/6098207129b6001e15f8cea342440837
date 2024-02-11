@@ -1,0 +1,14 @@
+package pack_01;
+
+import static java.lang.Math.*;
+
+
+public class LocalFun 
+{
+static {
+	
+	
+	System.out.println("hello");
+}
+	
+}

@@ -1,0 +1,15 @@
+class num{
+	int i;
+	public void myMethod() {
+		System.out.println(i);	
+	}
+}
+public class strgs {
+
+
+	
+public static void main(String args[]) {
+
+
+}
+}

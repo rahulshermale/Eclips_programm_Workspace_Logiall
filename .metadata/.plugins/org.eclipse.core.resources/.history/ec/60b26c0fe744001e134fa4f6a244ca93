@@ -1,0 +1,31 @@
+class A {
+	int x=10;
+	void disp() {
+		
+	}
+	
+}
+
+abstract class C extends A {
+	
+	
+	void disp() {
+
+	
+	}
+}
+ class D extends C {
+	
+	
+	void disp() {
+
+	
+	}
+}
+
+public class Test {
+	public static void main(String[] args) {
+
+	
+	}
+}

@@ -1,0 +1,35 @@
+package pack_01;
+
+public class LocalFun {
+
+	public static void main(String[] args) {
+		boolean x = true;
+//		if (x) {
+//			System.out.println("Hdello");
+//		} else {
+//			System.out.println("Byee");
+//		}
+//		int y = 1001;
+//
+//		System.out.println(y);
+//		char ch = 'a';
+//		char n1 = 222;
+////		double d = 123456.789; //valid
+////		double d1 = 1_23_456.7_8_9; //valid
+//		double d2 = 123__456.7_8____9;
+//		
+//		System.out.println(d);
+//		System.out.println(d1);
+//		System.out.println(d2);
+		
+//		int d='A';
+//		int c='Z';
+//		System.out.println(d);
+//		System.out.println(c);
+//		
+		int arr[]=new int[3];
+		
+		System.out.println(arr[0]);
+		
+	}
+}

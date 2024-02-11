@@ -1,0 +1,28 @@
+package pack_01;
+
+import static java.lang.Math.*;
+
+interface Demo {
+	int disp();
+}
+
+interface Child {
+	void disp();
+}
+
+public class LocalFun implements Demo //, Child 
+{
+	public static void main(String[] args) {
+		
+		
+	
+
+
+}
+
+	@Override
+	public void disp() {
+		// TODO Auto-generated method stub
+
+	}
+}

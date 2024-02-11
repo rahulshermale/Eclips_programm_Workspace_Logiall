@@ -1,0 +1,28 @@
+package mypack1;
+
+class Main{
+	
+	
+	int aa=19;
+	int jj=98;
+	public int calculation() {
+		
+		return aa+jj;
+	}
+}
+
+
+
+public class Demo1 {
+	
+	
+public static void main(String args [] ){
+	
+	Main m=new Main();
+		m.calculation();
+
+}
+}
+	
+
+

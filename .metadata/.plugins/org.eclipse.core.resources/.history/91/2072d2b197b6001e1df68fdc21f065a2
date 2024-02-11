@@ -1,0 +1,26 @@
+package pack_01;
+
+class MyThread// extends Thread 
+{
+
+	public void run() {
+		for (int i = 0; i < 5; i++) {
+			System.out.println("Childe Thread");// StaticBlock.java
+		}
+	}
+
+}
+
+public class StaticBlock {
+	public static void main(String[] args) {
+
+		MyThread n = new MyThread();
+//		n.start();
+		n.run();
+
+		for (int i = 0; i < 5; i++) {
+			System.out.println("Main Thread");// StaticBlock.java
+		}
+
+	}
+}

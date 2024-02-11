@@ -1,0 +1,23 @@
+package pack_01;
+
+import static java.lang.Math.*;
+
+class Demo{
+	
+	
+	void mDemo(){
+	final int num;
+		System.out.println("Hello ");
+	}
+		
+	
+	
+}
+
+public class LocalFun {
+
+	public static void main(String[] args) {
+Demo d=new Demo();
+	}
+
+}

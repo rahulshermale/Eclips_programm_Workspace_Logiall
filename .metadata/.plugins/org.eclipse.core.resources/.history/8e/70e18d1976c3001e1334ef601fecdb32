@@ -1,0 +1,11 @@
+package JDBC;
+
+public class jbdc_01 {
+
+	public static void main(String[] args) throws ClassNotFoundException {
+		
+		Class.forName("com.mysql.cj.jdbc.Driver");
+
+	}
+
+}

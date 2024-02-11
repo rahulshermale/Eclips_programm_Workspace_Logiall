@@ -1,0 +1,16 @@
+package Inner_pack_02;
+
+public class InnnerClass {
+
+	public static void main(String[] args) {
+
+		
+		StringBuffer s1=new StringBuffer("Rahul");
+		StringBuffer s2=new StringBuffer("Rahul");
+		System.out.println(s1.equals(s2));
+		
+		String s3="Rahul";
+		String s4="Rahul";
+		System.out.println(s3.equals(s2));
+	}
+}

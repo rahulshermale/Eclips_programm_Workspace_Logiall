@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kb-project>
+ <depends-on-projects/>
+ <used-by-projects/>
+ <paths>
+  <path value="C:/Users/91897/Downloads/mysql-database-1.8.0.jar/mysql-database-1.8.0.jar"/>
+  <path value="E:/MYSQL/mysql-connector-java-8.0.11.jar"/>
+ </paths>
+ <validation>
+  <el/>
+ </validation>
+ <aliases/>
+ <includes/>
+ <uris/>
+</kb-project>

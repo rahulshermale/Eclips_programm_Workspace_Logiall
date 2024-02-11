@@ -1,0 +1,22 @@
+package classLoad;
+
+import java.util.Scanner;
+
+public class SumNumRecursion {
+	public static void main(String[] args) {
+
+		Scanner sc=new Scanner(System.in);
+		System.out.println("Enter Number : ");
+		int num=sc.nextInt();
+		int sum=getNum(num);
+		
+		System.out.println(sum);
+	}
+
+	private static int getNum(int num) {
+		if(num==0) {
+			return num;
+		}
+		return num+getNum(num-1);
+	}
+}

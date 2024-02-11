@@ -1,0 +1,25 @@
+package pack_01;
+
+import static java.lang.Math.*;
+
+abstract class Demo {
+	void disp() throws Exception{}
+	
+}
+
+class Child extends Demo {
+	void disp()// throws Exception
+	{
+		
+	}
+	
+}
+
+public class LocalFun 
+{
+	public static void main(String[] args) {
+		Child c=new Child();
+	}
+
+	
+}

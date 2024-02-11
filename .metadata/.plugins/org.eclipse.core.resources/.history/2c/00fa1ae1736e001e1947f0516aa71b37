@@ -1,0 +1,29 @@
+package mypack1;
+
+class Main{
+	
+	
+	int aa=5;
+	int jj=10;
+	public int calculation() {
+		
+		return aa+jj;
+	}
+}
+
+
+
+public class Demo1 {
+	
+	
+public static void main(String args [] ){
+	
+	Main m=new Main();
+		int sum=m.calculation();
+System.out.println(m.calculation());
+
+}
+}
+	
+
+

@@ -1,0 +1,16 @@
+package pack_01;
+
+import static java.lang.Math.*;
+
+interface Demo {
+int x=10;
+}
+
+public class LocalFun implements Demo {
+	public static void main(String[] args) {
+		
+	int	x=20;
+	System.out.println(x);
+	}
+
+}

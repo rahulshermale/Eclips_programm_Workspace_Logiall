@@ -1,0 +1,25 @@
+interface A {
+	int x=10;
+	abstract int disp(int a) ;
+}
+
+class C implements A {
+	
+	@Override
+	public int disp(int a) {
+// TODO Auto-generated method stub
+		
+		return x;
+	}
+}
+
+public class Test {
+	public static void main(String[] args) {
+
+		C ref = new C();
+		int ans = ref.disp(1);
+		System.out.println(ans);
+		
+		System.out.println(ref.x);
+	}
+}

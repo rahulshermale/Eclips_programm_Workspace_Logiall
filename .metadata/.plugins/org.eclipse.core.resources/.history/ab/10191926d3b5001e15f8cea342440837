@@ -1,0 +1,14 @@
+package pack_01;
+import static java.lang.Math.*;
+public  class LocalFun {
+
+	 public static void main(String[] args) {
+
+	        String s1= (100>200)?"True":"False";
+	        System.out.println(min(10,20));
+	        System.out.println(Math.max(20,10));
+	        System.out.println(max(20,30));
+	        
+		}
+
+}

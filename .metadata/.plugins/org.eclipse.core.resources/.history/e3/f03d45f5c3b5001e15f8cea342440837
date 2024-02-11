@@ -1,0 +1,13 @@
+package pack_01;
+
+public class LocalFun {
+
+	static { 	
+		System.out.println("static block");
+		System.exit(0);
+	}
+	public static void main(String[] args) {
+		
+	}
+
+}
